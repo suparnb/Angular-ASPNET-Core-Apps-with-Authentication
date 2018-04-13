@@ -7,15 +7,13 @@ import { WebService } from '../web.service';
   styleUrls: ['./messages.component.css']
 })
 export class MessagesComponent {
+
+  messages: Array<any>
   constructor(private webSrevice: WebService){}
 
   async ngOnInit() {
     let response = await this.webSrevice.getMessages();
     this.messages = response.json();
   }
-  messages = [
-    {text: 'some text', owner: 'Tony'},
-    {text: 'more some text', owner: 'Steve'}
-  ]
 
 }
