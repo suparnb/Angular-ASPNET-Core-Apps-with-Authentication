@@ -1,0 +1,10 @@
+/Users/tonymedrano/Desktop/aspnet-angualr-message-app/MessageBoardBackend/MessageBoardBackend/bin/Debug/netcoreapp2.0/MessageBoardBackend.deps.json
+/Users/tonymedrano/Desktop/aspnet-angualr-message-app/MessageBoardBackend/MessageBoardBackend/bin/Debug/netcoreapp2.0/MessageBoardBackend.runtimeconfig.json
+/Users/tonymedrano/Desktop/aspnet-angualr-message-app/MessageBoardBackend/MessageBoardBackend/bin/Debug/netcoreapp2.0/MessageBoardBackend.runtimeconfig.dev.json
+/Users/tonymedrano/Desktop/aspnet-angualr-message-app/MessageBoardBackend/MessageBoardBackend/bin/Debug/netcoreapp2.0/MessageBoardBackend.dll
+/Users/tonymedrano/Desktop/aspnet-angualr-message-app/MessageBoardBackend/MessageBoardBackend/bin/Debug/netcoreapp2.0/MessageBoardBackend.pdb
+/Users/tonymedrano/Desktop/aspnet-angualr-message-app/MessageBoardBackend/MessageBoardBackend/obj/Debug/netcoreapp2.0/MessageBoardBackend.csproj.CoreCompileInputs.cache
+/Users/tonymedrano/Desktop/aspnet-angualr-message-app/MessageBoardBackend/MessageBoardBackend/obj/Debug/netcoreapp2.0/MessageBoardBackend.AssemblyInfoInputs.cache
+/Users/tonymedrano/Desktop/aspnet-angualr-message-app/MessageBoardBackend/MessageBoardBackend/obj/Debug/netcoreapp2.0/MessageBoardBackend.AssemblyInfo.cs
+/Users/tonymedrano/Desktop/aspnet-angualr-message-app/MessageBoardBackend/MessageBoardBackend/obj/Debug/netcoreapp2.0/MessageBoardBackend.dll
+/Users/tonymedrano/Desktop/aspnet-angualr-message-app/MessageBoardBackend/MessageBoardBackend/obj/Debug/netcoreapp2.0/MessageBoardBackend.pdb
