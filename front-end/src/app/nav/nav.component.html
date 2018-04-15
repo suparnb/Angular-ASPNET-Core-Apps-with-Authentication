@@ -3,6 +3,10 @@
         <mat-icon>dashboard</mat-icon> Message Board</button>
     <button class="nav-buttom" mat-raised-button color="primary" routerLink="/messages">
         <mat-icon>message</mat-icon> Messages</button>
-        <button class="nav-buttom" mat-raised-button color="primary" routerLink="/register">
-            <mat-icon>face</mat-icon> Register</button>
+    <span style="flex: 1 1 auto"></span>
+    <button *ngIf="!auth.isAuthenticated" class="nav-buttom" mat-raised-button color="primary" routerLink="/register">
+        <mat-icon>face</mat-icon> Register</button>
+    <button *ngIf="auth.isAuthenticated" class="nav-buttom" mat-raised-button color="primary" routerLink="/">
+        <mat-icon>face</mat-icon> Welcome {{auth.name}}</button>
+        <button *ngIf="auth.isAuthenticated" class="nav-buttom" mat-raised-button color="accent" (click)="auth.logout()">logout</button>
 </mat-toolbar>
