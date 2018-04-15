@@ -3,3 +3,13 @@
 body {
     background: #eeeeee;
 }
+.card {
+    margin-top: 8px;
+}
+.full-width {
+    width: 100%;
+  }
+  .post-form {
+    min-width: 150px;
+
+  }

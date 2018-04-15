@@ -1,0 +1,11 @@
+<mat-card class="card post-form">
+  <mat-card-content class="post-form">
+    <mat-form-field class="full-width">
+      <input matInput [(ngModel)]="message.owner" placeholder="Name">
+    </mat-form-field>
+    <mat-form-field class="full-width">
+      <textarea matInput [(ngModel)]="message.text" placeholder="Message"></textarea>
+    </mat-form-field>
+    <button (click)="post()" mat-raised-button color="accent">POST!</button>
+  </mat-card-content>
+</mat-card>
